@@ -1,1 +1,12 @@
+# ignore the "blink" project directory
 blink/
+
+# ignore vivado files
+vivado.log
+vivado.jou
+vivado_pid*.str
+.Xil/
+managed_ip_project
+
+# ignore emacs files
+*~
